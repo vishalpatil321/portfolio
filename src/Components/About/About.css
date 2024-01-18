@@ -23,7 +23,7 @@ h3{
    color: rgb(112, 111, 111);
 }
 .my-image{
-    width: auto;
+   width: 50%;
     height: 90%;
     display: flex;
     align-items: center;

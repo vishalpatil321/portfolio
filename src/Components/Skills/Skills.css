@@ -15,12 +15,12 @@
 }
 @media screen and (max-width:900px){
     .container{
-        height: 140vh;
+        height: 200vh;
     }
     .skills{
         flex-wrap: nowrap;
         flex-direction: column;
-        row-gap: 5px;
+        row-gap: 15px;
     }
    
 

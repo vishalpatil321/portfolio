@@ -52,7 +52,7 @@ export const Skills = () => {
       <>
         <div className="heading1">
             <p>I Have Some</p>
-            <h2>Hard Skills</h2>
+            <h2>Technical Skills</h2>
          </div>
         <div className="container">
          <div className="skills">

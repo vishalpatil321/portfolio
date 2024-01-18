@@ -36,7 +36,7 @@ export const About = () => {
                 <h3>Frontend Developer</h3>
                 <br/>
               <div className="buttons">
-                 <a href="https://vishalpatil321.github.io/Resume-/"><button>View cv</button></a>
+                 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7153753257410977792/"><button>View cv</button></a>
                
                </div>
                 

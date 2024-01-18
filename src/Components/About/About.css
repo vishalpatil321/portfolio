@@ -252,8 +252,7 @@ button:hover{
         justify-content: space-evenly;
     }
     .image3{
-        width: 95%;
-        height: 60%;
+        display:none;
     }
     /* .my-image{
         width: 80%;

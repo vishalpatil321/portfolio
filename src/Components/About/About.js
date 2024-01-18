@@ -54,14 +54,14 @@ export const About = () => {
                     <div className="container1">
 
                     <h2><GiAchievement/></h2>
-                    <h4>Experience</h4> 
+                    <h4 className="a">Experience</h4> 
                     <p>Fresher</p>
                        
                     </div>
                     <div className="container2">
                        <h2><IoPeople /></h2>
 
-                       <h4>Education</h4>
+                       <h4 className="a">Education</h4>
                        <p>• B.Sc. Graduate from DAVV University,Indore.</p>
 
                       <p>• Persuing in Mca from sage University ,Indore.</p>

@@ -252,16 +252,15 @@ button:hover{
         justify-content: space-evenly;
     }
    
-    /* .my-image{
-        width: 80%;
-    } */
+   .my-image{
+       display:none;
+   }
     .text3{
         width: auto;
     }
-    /* .image{
-        width: 120%;
-        height: 30%;
-    } */
+    .image{
+        display:none;
+    }
     .know-more{
         height: 170vh;
     }
